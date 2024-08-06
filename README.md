@@ -2,7 +2,7 @@
 👋 Hi, I’m Vedant Kokamkar
 - 👀 I am intrigued by the prospect of delving into the realm of app and website development.
 - 🌱 I’m currently learning :
-- 1. MERN Stack Development which inlcudes creating real
+  1. MERN Stack Development which inlcudes creating real
   time projects using MongoDB, Express.Js, React.Js, Node.Js.
   2. Power BI for data analytics and extra knowledge.
   3. Android App Development using Kotlin.
